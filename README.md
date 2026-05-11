@@ -48,3 +48,13 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/ojaswiandcode/travelApp-capstone.git
+
+## Video Demo
+
+#Watch the project demo here:
+
+https://youtu.be/51mFvfF9UDY?feature=shared
+
+##Project Report
+
+https://drive.google.com/file/d/1uKjH0_UGueOyWBpEWmsAMvWM8Up2IjMo/view?usp=drive_link
